@@ -19,4 +19,4 @@
    python3 main.py
 
 
-(ALL POSTMAN COLLECTIONS)[https://github.com/Artiquee/DT_TEST_TASK/blob/main/Spy_cats.postman_collection.json]
+[ALL POSTMAN COLLECTIONS](https://github.com/Artiquee/DT_TEST_TASK/blob/main/Spy_cats.postman_collection.json)
